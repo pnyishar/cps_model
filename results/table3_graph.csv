@@ -1,0 +1,6 @@
+Rank,Node,Components affected,Betweenness
+1,LIT301,9,0.0909
+2,LIT101,9,0.0818
+3,FIT101,9,0.0
+4,PLC1,8,0.4182
+5,PLC2,8,0.3136

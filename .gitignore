@@ -1,0 +1,35 @@
+# SWaT data: obtained from iTrust on request, not redistributed here (see README)
+SWaT/
+SWaT.A12_OTDataset_Mar_26/
+*.zip
+cleaned_SWaT_dataset.csv
+combined_SWaT_dataset.csv
+dataset/
+
+# environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# editor / OS
+.idea/
+.cadence/
+.DS_Store
+
+# run logs (regenerated on every run; contain local paths)
+results/run_log.txt
+revision/outputs/run_log.txt
+revision/outputs/t8_log.txt
+
+# earlier exploratory code, not part of the paper's pipeline
+cps_demo_synthetic.py
+cps_model_complete.py
+cps_model_simulation.ipynb
+cps_simulation.ipynb
+Untitled.ipynb
+
+# markdown files (generated reports, notes): only the main README is published
+*.md
+!/README.md

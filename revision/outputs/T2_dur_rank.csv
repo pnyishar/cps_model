@@ -1,0 +1,5 @@
+Duration,Ranking by peak (worst→least),Ranking by R (worst→least),Same as 600 s peak/R
+60 s,Spoofing 0.5 > FDI 0.8 > Bias 0.5 > FDI 0.3 > DoS hold > DoS zero,Spoofing 0.5 > FDI 0.8 > Bias 0.5 > FDI 0.3 > DoS hold > DoS zero,N/N
+300 s,Spoofing 0.5 > FDI 0.8 > Bias 0.5 > DoS hold > FDI 0.3 > DoS zero,Spoofing 0.5 > Bias 0.5 > FDI 0.8 > DoS hold > DoS zero > FDI 0.3,N/Y
+600 s,Spoofing 0.5 > FDI 0.8 > Bias 0.5 > DoS hold > DoS zero > FDI 0.3,Spoofing 0.5 > Bias 0.5 > FDI 0.8 > DoS hold > DoS zero > FDI 0.3,Y/Y
+1200 s,Spoofing 0.5 > DoS hold > FDI 0.8 > Bias 0.5 > DoS zero > FDI 0.3,Spoofing 0.5 > DoS hold > Bias 0.5 > FDI 0.8 > DoS zero > FDI 0.3,N/N

@@ -1,0 +1,14 @@
+Variant set / ranking,Attacks whose positions changed,Count
+Bootstrap by peak,FDI 0.3 / DoS zero,14
+Bootstrap by peak,DoS hold / Bias 0.5,2
+±5 % by peak,FDI 0.3 / DoS hold / DoS zero,3
+±5 % by peak,DoS zero / DoS hold / FDI 0.8 / Bias 0.5,1
+±5 % by peak,DoS hold / Bias 0.5,1
+±5 % by R,FDI 0.3 / DoS hold / DoS zero,2
+±5 % by R,FDI 0.3 / DoS zero,1
+±5 % by R,DoS zero / DoS hold / Bias 0.5 / FDI 0.8,1
+±5 % by R,DoS hold / Bias 0.5 / FDI 0.8,1
+±10 % by peak,FDI 0.3 / DoS zero,1
+±10 % by peak,FDI 0.3 / DoS hold / DoS zero,2
+±10 % by R,FDI 0.3 / DoS zero,1
+±10 % by R,FDI 0.8 / Bias 0.5 / FDI 0.3 / DoS hold / DoS zero,2

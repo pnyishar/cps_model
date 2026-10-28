@@ -1,0 +1,6 @@
+Variant set,Stable / drawn,max|λ(A)| range,δ̄ mean ± std,Same peak ranking,Same R ranking,Spoofing worst (peak & R)
+Bootstrap,50/50,0.999809–1.000010,0.705 ± 0.083,34/50,50/50,50/50
+±5 %,5/20,0.986803–1.004501,2.164 ± 1.575,0/5,0/5,5/5
+±10 %,3/20,0.962801–0.993213,4.754 ± 3.575,0/3,0/3,3/3
+±5% (all draws),5/20,0.986803–1.045741,—,—,—,unstable draws with open-loop max|λ|>1: 15/15
+±10% (all draws),3/20,0.962801–1.096522,—,—,—,unstable draws with open-loop max|λ|>1: 17/17

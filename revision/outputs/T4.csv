@@ -1,0 +1,21 @@
+Setting,n,δ̄ mean,δ̄ min,δ̄ max
+Baseline (600 s horizon),1,0.732,0.732,0.732
+Bootstrap models (stable),50,0.705,0.544,0.881
+±5 % models (stable),5,2.164,0.520,4.757
+±10 % models (stable),3,4.754,2.056,9.807
+"Baseline model, horizon 60 s",1,5.017,5.017,5.017
+"Baseline model, horizon 300 s",1,1.154,1.154,1.154
+"Baseline model, horizon 600 s",1,0.732,0.732,0.732
+"Baseline model, horizon 1200 s",1,0.567,0.567,0.567
+"Bootstrap models, horizon 60 s",50,4.565,3.313,5.411
+"Bootstrap models, horizon 300 s",50,1.086,0.825,1.261
+"Bootstrap models, horizon 600 s",50,0.705,0.544,0.881
+"Bootstrap models, horizon 1200 s",50,0.561,0.395,0.795
+"±5 % models, horizon 60 s",5,5.624,4.606,7.138
+"±5 % models, horizon 300 s",5,2.404,0.941,4.773
+"±5 % models, horizon 600 s",5,2.164,0.520,4.757
+"±5 % models, horizon 1200 s",5,2.086,0.317,4.757
+"±10 % models, horizon 60 s",3,7.519,5.080,11.461
+"±10 % models, horizon 300 s",3,4.855,2.191,9.807
+"±10 % models, horizon 600 s",3,4.754,2.056,9.807
+"±10 % models, horizon 1200 s",3,4.749,2.048,9.807
